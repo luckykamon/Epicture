@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Epiture</string>
+    <string name="app_description">by jb and lucas</string>
+    <string name="hello_world">hello world</string>
+    <string name="rechercher">Search</string>
+    <string name="my_pictures">My images</string>
+    <string name="my_favorites">My favorites</string>
+    <string name="login">Sign in</string>
+    <string name="username">Username</string>
+    <string name="mdp">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="download_image">Your image are downloaded</string>
+</resources>

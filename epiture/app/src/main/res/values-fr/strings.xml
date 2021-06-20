@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Epiture</string>
+    <string name="app_description">par jb et lucas</string>
+    <string name="hello_world">hello world</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="my_pictures">Mes images</string>
+    <string name="my_favorites">Mes favoris</string>
+    <string name="login">Se connecter</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="sign_up">Créer un compte</string>
+    <string name="download_image">L\'image à été téléchargée</string>
+</resources>

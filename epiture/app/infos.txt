@@ -1,0 +1,19 @@
+API imgur:
+
+Client ID:
+4b0efcb8f6f9f8c
+
+Client secret:
+0a9977a955ca0c158ce007a6aad4a0e6ddf8b526
+
+Access Token:
+fb6f4ff04bcefd36acc0cfffc96a009b0b890a44
+
+refresh_token:
+f62e7d9c609280fdad18628976bd11bb20da3ca0
+
+account_id:
+146493179
+
+account_username:
+luckykamon
